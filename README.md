@@ -14,3 +14,5 @@ Commands
 
 Java 21
 Version 1.20.6 paper
+
+I don't offer it for free, only in partnership cases. / não disponibilizo de graça, somente em casos de parceria
